@@ -1,0 +1,10 @@
+C:\Users\emmis\OneDrive\Рабочий стол\3 курс 2 семестр\Гаиашвили\LabaEditor\LabaEditor\bin\Debug\LabaEditor.exe.config
+C:\Users\emmis\OneDrive\Рабочий стол\3 курс 2 семестр\Гаиашвили\LabaEditor\LabaEditor\bin\Debug\LabaEditor.exe
+C:\Users\emmis\OneDrive\Рабочий стол\3 курс 2 семестр\Гаиашвили\LabaEditor\LabaEditor\bin\Debug\LabaEditor.pdb
+C:\Users\emmis\OneDrive\Рабочий стол\3 курс 2 семестр\Гаиашвили\LabaEditor\LabaEditor\obj\Debug\LabaEditor.csproj.AssemblyReference.cache
+C:\Users\emmis\OneDrive\Рабочий стол\3 курс 2 семестр\Гаиашвили\LabaEditor\LabaEditor\obj\Debug\LabaEditor.Form1.resources
+C:\Users\emmis\OneDrive\Рабочий стол\3 курс 2 семестр\Гаиашвили\LabaEditor\LabaEditor\obj\Debug\LabaEditor.Properties.Resources.resources
+C:\Users\emmis\OneDrive\Рабочий стол\3 курс 2 семестр\Гаиашвили\LabaEditor\LabaEditor\obj\Debug\LabaEditor.csproj.GenerateResource.cache
+C:\Users\emmis\OneDrive\Рабочий стол\3 курс 2 семестр\Гаиашвили\LabaEditor\LabaEditor\obj\Debug\LabaEditor.csproj.CoreCompileInputs.cache
+C:\Users\emmis\OneDrive\Рабочий стол\3 курс 2 семестр\Гаиашвили\LabaEditor\LabaEditor\obj\Debug\LabaEditor.exe
+C:\Users\emmis\OneDrive\Рабочий стол\3 курс 2 семестр\Гаиашвили\LabaEditor\LabaEditor\obj\Debug\LabaEditor.pdb
